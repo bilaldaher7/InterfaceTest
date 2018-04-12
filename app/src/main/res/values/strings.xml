@@ -1,11 +1,10 @@
 <resources>
-    <string name="app_name">MyCalendar2</string>
-    <string name="textview">TextView</string>
-    <string name="title_activity_calendrier_mensuel">calendrier_mensuel</string>
-    <string name="action_settings">Settings</string>
-    <string name="section_format">Hello World from section: %1$d</string>
-    <string name="title_activity_calendrier">calendrier</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="app_name">EzCal</string>
+    <string name="ajoutEvenement">Ajout d\'un événement</string>
+    <string name="nomEvenement">Nom de l\'événement</string>
+    <string name="debutEvenement">Début de l\'événement</string>
+    <string name="finEvenement">Fin de l\'événement</string>
+    <string name="couleurEtiquette">Couleur de l\'étiquette</string>
+    <string name="addEvent">Ajoutez l\'événement</string>
+    <string name="settings">Réglages</string>
 </resources>
